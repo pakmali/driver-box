@@ -10,4 +10,3 @@ docker-no-cache:
 
 clean:
 	docker rmi -f driver-box:$(VERSION)
-xiugxiug
